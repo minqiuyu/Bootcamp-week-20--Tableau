@@ -1,1 +1,1 @@
-# Bootcamp-week-20--Tableau
+This repository would have been for the files for the assigned homework project for the bootcamp's Tableau unit. However, due to the limitations of Tableau Public (You can't actually save a file with Tableau Public, you can only upload the file to their servers) the best method here is to link my finished product: https://public.tableau.com/profile/minqiu.yu#!/vizhome/CitibikeAnalyticsAssignment/Dashboard1?publish=yes
